@@ -1,0 +1,28 @@
+{
+  "name": "gta5-cloth-assets",
+  "version": "1.0.0",
+  "description": "GTA 5 Clothing Assets Collection",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ShortByte/GTA5-Cloth-Assets.git"
+  },
+  "keywords": [
+    "GTA",
+    "GTA5",
+    "Cloth",
+    "Clothes",
+    "Assets",
+    "Images"
+  ],
+  "author": "Leon Enneken (ShortByte)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShortByte/GTA5-Cloth-Assets/issues"
+  },
+  "homepage": "https://github.com/ShortByte/GTA5-Cloth-Assets#readme"
+}
