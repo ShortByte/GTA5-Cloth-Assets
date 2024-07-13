@@ -1,0 +1,3806 @@
+{
+  "0": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/0/0.webp",
+      "size": 52
+    }
+  ],
+  "1": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/1/0.webp",
+      "size": 15926
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/1/1.webp",
+      "size": 14220
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/1/2.webp",
+      "size": 13976
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/1/3.webp",
+      "size": 16498
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/1/4.webp",
+      "size": 15138
+    },
+    {
+      "index": 5,
+      "name": "5.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/1/5.webp",
+      "size": 16924
+    }
+  ],
+  "2": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/2/0.webp",
+      "size": 9994
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/2/1.webp",
+      "size": 6316
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/2/2.webp",
+      "size": 9264
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/2/3.webp",
+      "size": 10834
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/2/4.webp",
+      "size": 10864
+    },
+    {
+      "index": 5,
+      "name": "5.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/2/5.webp",
+      "size": 5954
+    }
+  ],
+  "3": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/3/0.webp",
+      "size": 52
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/3/1.webp",
+      "size": 52
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/3/2.webp",
+      "size": 52
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/3/3.webp",
+      "size": 52
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/3/4.webp",
+      "size": 52
+    },
+    {
+      "index": 5,
+      "name": "5.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/3/5.webp",
+      "size": 52
+    }
+  ],
+  "4": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/4/0.webp",
+      "size": 52
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/4/1.webp",
+      "size": 52
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/4/2.webp",
+      "size": 52
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/4/3.webp",
+      "size": 52
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/4/4.webp",
+      "size": 52
+    },
+    {
+      "index": 5,
+      "name": "5.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/4/5.webp",
+      "size": 52
+    }
+  ],
+  "5": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/5/0.webp",
+      "size": 52
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/5/1.webp",
+      "size": 52
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/5/2.webp",
+      "size": 52
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/5/3.webp",
+      "size": 52
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/5/4.webp",
+      "size": 52
+    },
+    {
+      "index": 5,
+      "name": "5.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/5/5.webp",
+      "size": 52
+    }
+  ],
+  "6": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/6/0.webp",
+      "size": 15640
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/6/1.webp",
+      "size": 13878
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/6/2.webp",
+      "size": 15330
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/6/3.webp",
+      "size": 15336
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/6/4.webp",
+      "size": 14906
+    },
+    {
+      "index": 5,
+      "name": "5.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/6/5.webp",
+      "size": 15404
+    }
+  ],
+  "7": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/7/0.webp",
+      "size": 32080
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/7/1.webp",
+      "size": 31384
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/7/2.webp",
+      "size": 24698
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/7/3.webp",
+      "size": 24698
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/7/4.webp",
+      "size": 24698
+    },
+    {
+      "index": 5,
+      "name": "5.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/7/5.webp",
+      "size": 24698
+    }
+  ],
+  "8": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/8/0.webp",
+      "size": 52
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/8/1.webp",
+      "size": 52
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/8/2.webp",
+      "size": 52
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/8/3.webp",
+      "size": 52
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/8/4.webp",
+      "size": 52
+    },
+    {
+      "index": 5,
+      "name": "5.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/8/5.webp",
+      "size": 52
+    }
+  ],
+  "9": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/9/0.webp",
+      "size": 119534
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/9/1.webp",
+      "size": 70784
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/9/2.webp",
+      "size": 70784
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/9/3.webp",
+      "size": 70784
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/9/4.webp",
+      "size": 70784
+    },
+    {
+      "index": 5,
+      "name": "5.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/9/5.webp",
+      "size": 70784
+    }
+  ],
+  "10": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/10/0.webp",
+      "size": 52
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/10/1.webp",
+      "size": 52
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/10/2.webp",
+      "size": 52
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/10/3.webp",
+      "size": 52
+    }
+  ],
+  "11": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/11/0.webp",
+      "size": 35102
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/11/1.webp",
+      "size": 35676
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/11/2.webp",
+      "size": 36830
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/11/3.webp",
+      "size": 27464
+    }
+  ],
+  "12": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/12/0.webp",
+      "size": 31248
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/12/1.webp",
+      "size": 40934
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/12/2.webp",
+      "size": 34466
+    }
+  ],
+  "13": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/13/0.webp",
+      "size": 57652
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/13/1.webp",
+      "size": 66724
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/13/2.webp",
+      "size": 44436
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/13/3.webp",
+      "size": 53012
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/13/4.webp",
+      "size": 78960
+    },
+    {
+      "index": 5,
+      "name": "5.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/13/5.webp",
+      "size": 28318
+    }
+  ],
+  "14": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/14/0.webp",
+      "size": 52
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/14/1.webp",
+      "size": 52
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/14/2.webp",
+      "size": 52
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/14/3.webp",
+      "size": 52
+    }
+  ],
+  "15": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/15/0.webp",
+      "size": 150382
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/15/1.webp",
+      "size": 156746
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/15/2.webp",
+      "size": 135780
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/15/3.webp",
+      "size": 157744
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/15/4.webp",
+      "size": 167176
+    }
+  ],
+  "16": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/16/0.webp",
+      "size": 19810
+    }
+  ],
+  "17": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/17/0.webp",
+      "size": 85412
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/17/1.webp",
+      "size": 102512
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/17/2.webp",
+      "size": 67016
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/17/3.webp",
+      "size": 101310
+    }
+  ],
+  "18": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/18/0.webp",
+      "size": 85412
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/18/1.webp",
+      "size": 102512
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/18/2.webp",
+      "size": 67016
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/18/3.webp",
+      "size": 101310
+    }
+  ],
+  "19": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/19/0.webp",
+      "size": 44568
+    }
+  ],
+  "20": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/20/0.webp",
+      "size": 15382
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/20/1.webp",
+      "size": 30496
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/20/2.webp",
+      "size": 17362
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/20/3.webp",
+      "size": 25796
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/20/4.webp",
+      "size": 36836
+    },
+    {
+      "index": 5,
+      "name": "5.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/20/5.webp",
+      "size": 25590
+    },
+    {
+      "index": 6,
+      "name": "6.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/20/6.webp",
+      "size": 24956
+    },
+    {
+      "index": 7,
+      "name": "7.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/20/7.webp",
+      "size": 20070
+    },
+    {
+      "index": 8,
+      "name": "8.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/20/8.webp",
+      "size": 24176
+    },
+    {
+      "index": 9,
+      "name": "9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/20/9.webp",
+      "size": 20240
+    },
+    {
+      "index": 10,
+      "name": "10.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/20/10.webp",
+      "size": 21300
+    },
+    {
+      "index": 11,
+      "name": "11.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/20/11.webp",
+      "size": 38622
+    },
+    {
+      "index": 12,
+      "name": "12.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/20/12.webp",
+      "size": 28652
+    },
+    {
+      "index": 13,
+      "name": "13.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/20/13.webp",
+      "size": 20192
+    },
+    {
+      "index": 14,
+      "name": "14.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/20/14.webp",
+      "size": 32474
+    },
+    {
+      "index": 15,
+      "name": "15.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/20/15.webp",
+      "size": 31804
+    }
+  ],
+  "21": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/21/0.webp",
+      "size": 13908
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/21/1.webp",
+      "size": 13248
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/21/2.webp",
+      "size": 13958
+    }
+  ],
+  "22": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/22/0.webp",
+      "size": 13088
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/22/1.webp",
+      "size": 25516
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/22/2.webp",
+      "size": 14748
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/22/3.webp",
+      "size": 21040
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/22/4.webp",
+      "size": 28764
+    },
+    {
+      "index": 5,
+      "name": "5.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/22/5.webp",
+      "size": 20850
+    },
+    {
+      "index": 6,
+      "name": "6.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/22/6.webp",
+      "size": 20802
+    },
+    {
+      "index": 7,
+      "name": "7.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/22/7.webp",
+      "size": 16850
+    },
+    {
+      "index": 8,
+      "name": "8.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/22/8.webp",
+      "size": 19604
+    },
+    {
+      "index": 9,
+      "name": "9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/22/9.webp",
+      "size": 16802
+    },
+    {
+      "index": 10,
+      "name": "10.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/22/10.webp",
+      "size": 17714
+    },
+    {
+      "index": 11,
+      "name": "11.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/22/11.webp",
+      "size": 29430
+    },
+    {
+      "index": 12,
+      "name": "12.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/22/12.webp",
+      "size": 23016
+    },
+    {
+      "index": 13,
+      "name": "13.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/22/13.webp",
+      "size": 16780
+    },
+    {
+      "index": 14,
+      "name": "14.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/22/14.webp",
+      "size": 25514
+    },
+    {
+      "index": 15,
+      "name": "15.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/22/15.webp",
+      "size": 31860
+    }
+  ],
+  "23": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/23/0.webp",
+      "size": 40688
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/23/1.webp",
+      "size": 39044
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/23/2.webp",
+      "size": 48770
+    }
+  ],
+  "24": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/24/0.webp",
+      "size": 14888
+    }
+  ],
+  "25": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/25/0.webp",
+      "size": 4794
+    }
+  ],
+  "26": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/26/0.webp",
+      "size": 25964
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/26/1.webp",
+      "size": 45436
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/26/2.webp",
+      "size": 24274
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/26/3.webp",
+      "size": 37692
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/26/4.webp",
+      "size": 46482
+    },
+    {
+      "index": 5,
+      "name": "5.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/26/5.webp",
+      "size": 37736
+    },
+    {
+      "index": 6,
+      "name": "6.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/26/6.webp",
+      "size": 35668
+    },
+    {
+      "index": 7,
+      "name": "7.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/26/7.webp",
+      "size": 31840
+    },
+    {
+      "index": 8,
+      "name": "8.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/26/8.webp",
+      "size": 32330
+    },
+    {
+      "index": 9,
+      "name": "9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/26/9.webp",
+      "size": 31770
+    },
+    {
+      "index": 10,
+      "name": "10.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/26/10.webp",
+      "size": 33148
+    },
+    {
+      "index": 11,
+      "name": "11.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/26/11.webp",
+      "size": 46660
+    },
+    {
+      "index": 12,
+      "name": "12.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/26/12.webp",
+      "size": 38616
+    },
+    {
+      "index": 13,
+      "name": "13.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/26/13.webp",
+      "size": 31300
+    },
+    {
+      "index": 14,
+      "name": "14.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/26/14.webp",
+      "size": 41840
+    },
+    {
+      "index": 15,
+      "name": "15.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/26/15.webp",
+      "size": 43508
+    }
+  ],
+  "27": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/27/0.webp",
+      "size": 23572
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/27/1.webp",
+      "size": 22414
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/27/2.webp",
+      "size": 23830
+    }
+  ],
+  "28": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/28/0.webp",
+      "size": 24292
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/28/1.webp",
+      "size": 41614
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/28/2.webp",
+      "size": 23556
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/28/3.webp",
+      "size": 34416
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/28/4.webp",
+      "size": 43706
+    },
+    {
+      "index": 5,
+      "name": "5.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/28/5.webp",
+      "size": 33968
+    },
+    {
+      "index": 6,
+      "name": "6.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/28/6.webp",
+      "size": 34478
+    },
+    {
+      "index": 7,
+      "name": "7.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/28/7.webp",
+      "size": 29676
+    },
+    {
+      "index": 8,
+      "name": "8.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/28/8.webp",
+      "size": 29612
+    },
+    {
+      "index": 9,
+      "name": "9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/28/9.webp",
+      "size": 29156
+    },
+    {
+      "index": 10,
+      "name": "10.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/28/10.webp",
+      "size": 30084
+    },
+    {
+      "index": 11,
+      "name": "11.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/28/11.webp",
+      "size": 43790
+    },
+    {
+      "index": 12,
+      "name": "12.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/28/12.webp",
+      "size": 35240
+    },
+    {
+      "index": 13,
+      "name": "13.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/28/13.webp",
+      "size": 29130
+    },
+    {
+      "index": 14,
+      "name": "14.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/28/14.webp",
+      "size": 40080
+    },
+    {
+      "index": 15,
+      "name": "15.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/28/15.webp",
+      "size": 42248
+    }
+  ],
+  "29": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/29/0.webp",
+      "size": 37712
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/29/1.webp",
+      "size": 29044
+    }
+  ],
+  "30": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/30/0.webp",
+      "size": 31778
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/30/1.webp",
+      "size": 27456
+    }
+  ],
+  "31": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/31/0.webp",
+      "size": 23722
+    }
+  ],
+  "32": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/32/0.webp",
+      "size": 31896
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/32/1.webp",
+      "size": 29632
+    }
+  ],
+  "33": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/33/0.webp",
+      "size": 33784
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/33/1.webp",
+      "size": 26500
+    }
+  ],
+  "34": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/34/0.webp",
+      "size": 31848
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/34/1.webp",
+      "size": 28730
+    }
+  ],
+  "35": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/35/0.webp",
+      "size": 31728
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/35/1.webp",
+      "size": 27582
+    }
+  ],
+  "36": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/36/0.webp",
+      "size": 38108
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/36/1.webp",
+      "size": 29660
+    }
+  ],
+  "37": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/37/0.webp",
+      "size": 32950
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/37/1.webp",
+      "size": 28354
+    }
+  ],
+  "38": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/38/0.webp",
+      "size": 24578
+    }
+  ],
+  "39": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/39/0.webp",
+      "size": 52
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/39/1.webp",
+      "size": 52
+    }
+  ],
+  "40": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/40/0.webp",
+      "size": 38020
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/40/1.webp",
+      "size": 34134
+    }
+  ],
+  "41": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/41/0.webp",
+      "size": 34922
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/41/1.webp",
+      "size": 32436
+    }
+  ],
+  "42": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/42/0.webp",
+      "size": 37350
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/42/1.webp",
+      "size": 33216
+    }
+  ],
+  "43": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/43/0.webp",
+      "size": 19900
+    }
+  ],
+  "44": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/44/0.webp",
+      "size": 19634
+    }
+  ],
+  "45": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/45/0.webp",
+      "size": 19642
+    }
+  ],
+  "46": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/46/0.webp",
+      "size": 19068
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/46/1.webp",
+      "size": 19068
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/46/2.webp",
+      "size": 19068
+    }
+  ],
+  "47": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/47/0.webp",
+      "size": 18040
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/47/1.webp",
+      "size": 18040
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/47/2.webp",
+      "size": 18040
+    }
+  ],
+  "48": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/48/0.webp",
+      "size": 17600
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/48/1.webp",
+      "size": 17600
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/48/2.webp",
+      "size": 17600
+    }
+  ],
+  "49": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/49/0.webp",
+      "size": 19832
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/49/1.webp",
+      "size": 19832
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/49/2.webp",
+      "size": 19832
+    }
+  ],
+  "50": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/50/0.webp",
+      "size": 52
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/50/1.webp",
+      "size": 52
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/50/2.webp",
+      "size": 52
+    }
+  ],
+  "51": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/51/0.webp",
+      "size": 52
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/51/1.webp",
+      "size": 52
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/51/2.webp",
+      "size": 52
+    }
+  ],
+  "52": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/52/0.webp",
+      "size": 52
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/52/1.webp",
+      "size": 52
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/52/2.webp",
+      "size": 52
+    }
+  ],
+  "53": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/53/0.webp",
+      "size": 25828
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/53/1.webp",
+      "size": 20852
+    }
+  ],
+  "54": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/54/0.webp",
+      "size": 32358
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/54/1.webp",
+      "size": 26338
+    }
+  ],
+  "55": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/55/0.webp",
+      "size": 34532
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/55/1.webp",
+      "size": 29100
+    }
+  ],
+  "56": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/56/0.webp",
+      "size": 35836
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/56/1.webp",
+      "size": 30300
+    }
+  ],
+  "57": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/57/0.webp",
+      "size": 33962
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/57/1.webp",
+      "size": 27970
+    }
+  ],
+  "58": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/58/0.webp",
+      "size": 39122
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/58/1.webp",
+      "size": 30198
+    }
+  ],
+  "59": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/59/0.webp",
+      "size": 31458
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/59/1.webp",
+      "size": 27646
+    }
+  ],
+  "60": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/60/0.webp",
+      "size": 27490
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/60/1.webp",
+      "size": 21612
+    }
+  ],
+  "61": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/61/0.webp",
+      "size": 21480
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/61/1.webp",
+      "size": 19698
+    }
+  ],
+  "62": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/62/0.webp",
+      "size": 26264
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/62/1.webp",
+      "size": 21716
+    }
+  ],
+  "63": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/63/0.webp",
+      "size": 52
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/63/1.webp",
+      "size": 52
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/63/2.webp",
+      "size": 52
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/63/3.webp",
+      "size": 52
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/63/4.webp",
+      "size": 52
+    },
+    {
+      "index": 5,
+      "name": "5.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/63/5.webp",
+      "size": 52
+    }
+  ],
+  "64": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/64/0.webp",
+      "size": 26000
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/64/1.webp",
+      "size": 20974
+    }
+  ],
+  "65": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/65/0.webp",
+      "size": 32230
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/65/1.webp",
+      "size": 26294
+    }
+  ],
+  "66": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/66/0.webp",
+      "size": 34436
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/66/1.webp",
+      "size": 29014
+    }
+  ],
+  "67": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/67/0.webp",
+      "size": 35776
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/67/1.webp",
+      "size": 30208
+    }
+  ],
+  "68": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/68/0.webp",
+      "size": 34002
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/68/1.webp",
+      "size": 27922
+    }
+  ],
+  "69": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/69/0.webp",
+      "size": 39038
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/69/1.webp",
+      "size": 30122
+    }
+  ],
+  "70": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/70/0.webp",
+      "size": 31374
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/70/1.webp",
+      "size": 27606
+    }
+  ],
+  "71": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/71/0.webp",
+      "size": 27544
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/71/1.webp",
+      "size": 21650
+    }
+  ],
+  "72": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/72/0.webp",
+      "size": 21430
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/72/1.webp",
+      "size": 19516
+    }
+  ],
+  "73": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/73/0.webp",
+      "size": 26324
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/73/1.webp",
+      "size": 21696
+    }
+  ],
+  "74": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/74/0.webp",
+      "size": 52
+    }
+  ],
+  "75": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/75/0.webp",
+      "size": 52
+    }
+  ],
+  "76": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/76/0.webp",
+      "size": 52
+    }
+  ],
+  "77": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/77/0.webp",
+      "size": 52
+    }
+  ],
+  "78": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/78/0.webp",
+      "size": 52
+    }
+  ],
+  "79": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/79/0.webp",
+      "size": 52
+    }
+  ],
+  "80": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/80/0.webp",
+      "size": 52
+    }
+  ],
+  "81": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/81/0.webp",
+      "size": 35832
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/81/1.webp",
+      "size": 27254
+    }
+  ],
+  "82": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/82/0.webp",
+      "size": 36380
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/82/1.webp",
+      "size": 27434
+    }
+  ],
+  "83": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/83/0.webp",
+      "size": 156478
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/83/1.webp",
+      "size": 145294
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/83/2.webp",
+      "size": 94990
+    }
+  ],
+  "84": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/84/0.webp",
+      "size": 21982
+    }
+  ],
+  "85": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/85/0.webp",
+      "size": 38724
+    }
+  ],
+  "86": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/86/0.webp",
+      "size": 30882
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/86/1.webp",
+      "size": 18528
+    }
+  ],
+  "87": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/87/0.webp",
+      "size": 17358
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/87/1.webp",
+      "size": 17114
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/87/2.webp",
+      "size": 16690
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/87/3.webp",
+      "size": 15424
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/87/4.webp",
+      "size": 16868
+    },
+    {
+      "index": 5,
+      "name": "5.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/87/5.webp",
+      "size": 17278
+    },
+    {
+      "index": 6,
+      "name": "6.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/87/6.webp",
+      "size": 13876
+    },
+    {
+      "index": 7,
+      "name": "7.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/87/7.webp",
+      "size": 17194
+    },
+    {
+      "index": 8,
+      "name": "8.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/87/8.webp",
+      "size": 12110
+    },
+    {
+      "index": 9,
+      "name": "9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/87/9.webp",
+      "size": 12298
+    }
+  ],
+  "88": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/88/0.webp",
+      "size": 39200
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/88/1.webp",
+      "size": 30236
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/88/2.webp",
+      "size": 44902
+    }
+  ],
+  "89": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/89/0.webp",
+      "size": 40338
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/89/1.webp",
+      "size": 31278
+    }
+  ],
+  "90": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/90/0.webp",
+      "size": 34332
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/90/1.webp",
+      "size": 31252
+    }
+  ],
+  "91": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/91/0.webp",
+      "size": 39440
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/91/1.webp",
+      "size": 31240
+    }
+  ],
+  "92": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/92/0.webp",
+      "size": 39748
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/92/1.webp",
+      "size": 31440
+    }
+  ],
+  "93": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/93/0.webp",
+      "size": 22068
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/93/1.webp",
+      "size": 18890
+    }
+  ],
+  "94": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/94/0.webp",
+      "size": 42388
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/94/1.webp",
+      "size": 25310
+    }
+  ],
+  "95": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/95/0.webp",
+      "size": 14282
+    }
+  ],
+  "96": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/96/0.webp",
+      "size": 33556
+    }
+  ],
+  "97": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/97/0.webp",
+      "size": 21738
+    }
+  ],
+  "98": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/98/0.webp",
+      "size": 31230
+    }
+  ],
+  "99": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/99/0.webp",
+      "size": 29996
+    }
+  ],
+  "100": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/100/0.webp",
+      "size": 32440
+    }
+  ],
+  "101": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/101/0.webp",
+      "size": 32706
+    }
+  ],
+  "102": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/102/0.webp",
+      "size": 62914
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/102/1.webp",
+      "size": 81204
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/102/2.webp",
+      "size": 78818
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/102/3.webp",
+      "size": 81330
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/102/4.webp",
+      "size": 98516
+    },
+    {
+      "index": 5,
+      "name": "5.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/102/5.webp",
+      "size": 101794
+    },
+    {
+      "index": 6,
+      "name": "6.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/102/6.webp",
+      "size": 103400
+    },
+    {
+      "index": 7,
+      "name": "7.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/102/7.webp",
+      "size": 98252
+    },
+    {
+      "index": 8,
+      "name": "8.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/102/8.webp",
+      "size": 97200
+    },
+    {
+      "index": 9,
+      "name": "9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/102/9.webp",
+      "size": 101960
+    },
+    {
+      "index": 10,
+      "name": "10.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/102/10.webp",
+      "size": 82802
+    },
+    {
+      "index": 11,
+      "name": "11.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/102/11.webp",
+      "size": 83100
+    }
+  ],
+  "103": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/103/0.webp",
+      "size": 28428
+    }
+  ],
+  "104": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/104/0.webp",
+      "size": 28750
+    }
+  ],
+  "105": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/105/0.webp",
+      "size": 36084
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/105/1.webp",
+      "size": 30812
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/105/2.webp",
+      "size": 32776
+    }
+  ],
+  "106": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/106/0.webp",
+      "size": 37060
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/106/1.webp",
+      "size": 31640
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/106/2.webp",
+      "size": 33424
+    }
+  ],
+  "107": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/107/0.webp",
+      "size": 35248
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/107/1.webp",
+      "size": 30310
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/107/2.webp",
+      "size": 41946
+    }
+  ],
+  "108": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/108/0.webp",
+      "size": 35502
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/108/1.webp",
+      "size": 30380
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/108/2.webp",
+      "size": 42068
+    }
+  ],
+  "109": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/109/0.webp",
+      "size": 35216
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/109/1.webp",
+      "size": 30894
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/109/2.webp",
+      "size": 33284
+    }
+  ],
+  "110": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/110/0.webp",
+      "size": 35802
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/110/1.webp",
+      "size": 31382
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/110/2.webp",
+      "size": 33682
+    }
+  ],
+  "111": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/111/0.webp",
+      "size": 36774
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/111/1.webp",
+      "size": 31842
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/111/2.webp",
+      "size": 33040
+    }
+  ],
+  "112": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/112/0.webp",
+      "size": 37542
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/112/1.webp",
+      "size": 32502
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/112/2.webp",
+      "size": 33676
+    }
+  ],
+  "113": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/113/0.webp",
+      "size": 31562
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/113/1.webp",
+      "size": 27174
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/113/2.webp",
+      "size": 31432
+    }
+  ],
+  "114": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/114/0.webp",
+      "size": 32046
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/114/1.webp",
+      "size": 27470
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/114/2.webp",
+      "size": 31760
+    }
+  ],
+  "115": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/115/0.webp",
+      "size": 64016
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/115/1.webp",
+      "size": 82556
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/115/2.webp",
+      "size": 78724
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/115/3.webp",
+      "size": 83364
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/115/4.webp",
+      "size": 102704
+    },
+    {
+      "index": 5,
+      "name": "5.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/115/5.webp",
+      "size": 102596
+    },
+    {
+      "index": 6,
+      "name": "6.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/115/6.webp",
+      "size": 111052
+    },
+    {
+      "index": 7,
+      "name": "7.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/115/7.webp",
+      "size": 103782
+    },
+    {
+      "index": 8,
+      "name": "8.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/115/8.webp",
+      "size": 103262
+    },
+    {
+      "index": 9,
+      "name": "9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/115/9.webp",
+      "size": 105212
+    },
+    {
+      "index": 10,
+      "name": "10.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/115/10.webp",
+      "size": 82900
+    },
+    {
+      "index": 11,
+      "name": "11.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/115/11.webp",
+      "size": 82176
+    },
+    {
+      "index": 12,
+      "name": "12.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/115/12.webp",
+      "size": 57138
+    },
+    {
+      "index": 13,
+      "name": "13.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/115/13.webp",
+      "size": 63314
+    },
+    {
+      "index": 14,
+      "name": "14.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/115/14.webp",
+      "size": 80292
+    },
+    {
+      "index": 15,
+      "name": "15.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/115/15.webp",
+      "size": 83166
+    },
+    {
+      "index": 16,
+      "name": "16.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/115/16.webp",
+      "size": 76730
+    }
+  ],
+  "116": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/116/0.webp",
+      "size": 56832
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/116/1.webp",
+      "size": 76428
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/116/2.webp",
+      "size": 72256
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/116/3.webp",
+      "size": 77290
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/116/4.webp",
+      "size": 96522
+    },
+    {
+      "index": 5,
+      "name": "5.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/116/5.webp",
+      "size": 95722
+    },
+    {
+      "index": 6,
+      "name": "6.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/116/6.webp",
+      "size": 106222
+    },
+    {
+      "index": 7,
+      "name": "7.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/116/7.webp",
+      "size": 96814
+    },
+    {
+      "index": 8,
+      "name": "8.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/116/8.webp",
+      "size": 92652
+    },
+    {
+      "index": 9,
+      "name": "9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/116/9.webp",
+      "size": 99548
+    },
+    {
+      "index": 10,
+      "name": "10.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/116/10.webp",
+      "size": 76638
+    },
+    {
+      "index": 11,
+      "name": "11.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/116/11.webp",
+      "size": 76440
+    },
+    {
+      "index": 12,
+      "name": "12.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/116/12.webp",
+      "size": 49028
+    },
+    {
+      "index": 13,
+      "name": "13.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/116/13.webp",
+      "size": 57160
+    },
+    {
+      "index": 14,
+      "name": "14.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/116/14.webp",
+      "size": 71780
+    },
+    {
+      "index": 15,
+      "name": "15.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/116/15.webp",
+      "size": 75594
+    },
+    {
+      "index": 16,
+      "name": "16.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/116/16.webp",
+      "size": 66436
+    }
+  ],
+  "117": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/117/0.webp",
+      "size": 57078
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/117/1.webp",
+      "size": 77782
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/117/2.webp",
+      "size": 74790
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/117/3.webp",
+      "size": 78000
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/117/4.webp",
+      "size": 93490
+    },
+    {
+      "index": 5,
+      "name": "5.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/117/5.webp",
+      "size": 93146
+    },
+    {
+      "index": 6,
+      "name": "6.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/117/6.webp",
+      "size": 101552
+    },
+    {
+      "index": 7,
+      "name": "7.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/117/7.webp",
+      "size": 93230
+    },
+    {
+      "index": 8,
+      "name": "8.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/117/8.webp",
+      "size": 91800
+    },
+    {
+      "index": 9,
+      "name": "9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/117/9.webp",
+      "size": 95578
+    },
+    {
+      "index": 10,
+      "name": "10.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/117/10.webp",
+      "size": 78170
+    },
+    {
+      "index": 11,
+      "name": "11.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/117/11.webp",
+      "size": 79778
+    },
+    {
+      "index": 12,
+      "name": "12.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/117/12.webp",
+      "size": 49462
+    },
+    {
+      "index": 13,
+      "name": "13.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/117/13.webp",
+      "size": 61044
+    },
+    {
+      "index": 14,
+      "name": "14.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/117/14.webp",
+      "size": 76074
+    },
+    {
+      "index": 15,
+      "name": "15.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/117/15.webp",
+      "size": 78838
+    },
+    {
+      "index": 16,
+      "name": "16.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/117/16.webp",
+      "size": 70636
+    }
+  ],
+  "118": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/118/0.webp",
+      "size": 21692
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/118/1.webp",
+      "size": 21476
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/118/2.webp",
+      "size": 21480
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/118/3.webp",
+      "size": 20274
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/118/4.webp",
+      "size": 20610
+    },
+    {
+      "index": 5,
+      "name": "5.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/118/5.webp",
+      "size": 20338
+    },
+    {
+      "index": 6,
+      "name": "6.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/118/6.webp",
+      "size": 21862
+    },
+    {
+      "index": 7,
+      "name": "7.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/118/7.webp",
+      "size": 22042
+    },
+    {
+      "index": 8,
+      "name": "8.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/118/8.webp",
+      "size": 21480
+    },
+    {
+      "index": 9,
+      "name": "9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/118/9.webp",
+      "size": 21486
+    },
+    {
+      "index": 10,
+      "name": "10.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/118/10.webp",
+      "size": 21614
+    },
+    {
+      "index": 11,
+      "name": "11.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/118/11.webp",
+      "size": 20560
+    },
+    {
+      "index": 12,
+      "name": "12.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/118/12.webp",
+      "size": 22260
+    },
+    {
+      "index": 13,
+      "name": "13.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/118/13.webp",
+      "size": 22114
+    },
+    {
+      "index": 14,
+      "name": "14.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/118/14.webp",
+      "size": 20766
+    },
+    {
+      "index": 15,
+      "name": "15.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/118/15.webp",
+      "size": 21766
+    }
+  ],
+  "119": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/119/0.webp",
+      "size": 21692
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/119/1.webp",
+      "size": 21476
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/119/2.webp",
+      "size": 21480
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/119/3.webp",
+      "size": 20274
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/119/4.webp",
+      "size": 20610
+    },
+    {
+      "index": 5,
+      "name": "5.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/119/5.webp",
+      "size": 20338
+    },
+    {
+      "index": 6,
+      "name": "6.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/119/6.webp",
+      "size": 21862
+    },
+    {
+      "index": 7,
+      "name": "7.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/119/7.webp",
+      "size": 22042
+    },
+    {
+      "index": 8,
+      "name": "8.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/119/8.webp",
+      "size": 21480
+    },
+    {
+      "index": 9,
+      "name": "9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/119/9.webp",
+      "size": 21486
+    },
+    {
+      "index": 10,
+      "name": "10.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/119/10.webp",
+      "size": 21614
+    },
+    {
+      "index": 11,
+      "name": "11.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/119/11.webp",
+      "size": 20560
+    },
+    {
+      "index": 12,
+      "name": "12.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/119/12.webp",
+      "size": 22260
+    },
+    {
+      "index": 13,
+      "name": "13.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/119/13.webp",
+      "size": 22114
+    },
+    {
+      "index": 14,
+      "name": "14.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/119/14.webp",
+      "size": 20766
+    },
+    {
+      "index": 15,
+      "name": "15.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/119/15.webp",
+      "size": 21766
+    }
+  ],
+  "120": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/120/0.webp",
+      "size": 47532
+    }
+  ],
+  "121": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/121/0.webp",
+      "size": 130188
+    }
+  ],
+  "122": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/122/0.webp",
+      "size": 39892
+    }
+  ],
+  "123": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/123/0.webp",
+      "size": 33868
+    }
+  ],
+  "124": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/124/0.webp",
+      "size": 34160
+    }
+  ],
+  "125": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/125/0.webp",
+      "size": 11516
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/125/1.webp",
+      "size": 18176
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/125/2.webp",
+      "size": 17352
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/125/3.webp",
+      "size": 15120
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/125/4.webp",
+      "size": 15920
+    },
+    {
+      "index": 5,
+      "name": "5.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/125/5.webp",
+      "size": 14106
+    },
+    {
+      "index": 6,
+      "name": "6.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/125/6.webp",
+      "size": 18710
+    },
+    {
+      "index": 7,
+      "name": "7.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/125/7.webp",
+      "size": 15236
+    },
+    {
+      "index": 8,
+      "name": "8.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/125/8.webp",
+      "size": 17392
+    },
+    {
+      "index": 9,
+      "name": "9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/125/9.webp",
+      "size": 16998
+    }
+  ],
+  "126": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/126/0.webp",
+      "size": 11724
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/126/1.webp",
+      "size": 18434
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/126/2.webp",
+      "size": 17718
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/126/3.webp",
+      "size": 15330
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/126/4.webp",
+      "size": 16160
+    },
+    {
+      "index": 5,
+      "name": "5.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/126/5.webp",
+      "size": 14380
+    },
+    {
+      "index": 6,
+      "name": "6.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/126/6.webp",
+      "size": 18990
+    },
+    {
+      "index": 7,
+      "name": "7.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/126/7.webp",
+      "size": 15468
+    },
+    {
+      "index": 8,
+      "name": "8.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/126/8.webp",
+      "size": 17616
+    },
+    {
+      "index": 9,
+      "name": "9.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/126/9.webp",
+      "size": 17138
+    }
+  ],
+  "127": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/127/0.webp",
+      "size": 24194
+    }
+  ],
+  "128": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/128/0.webp",
+      "size": 26012
+    }
+  ],
+  "129": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/129/0.webp",
+      "size": 18028
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/129/1.webp",
+      "size": 22980
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/129/2.webp",
+      "size": 21106
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/129/3.webp",
+      "size": 18322
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/129/4.webp",
+      "size": 21536
+    }
+  ],
+  "130": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/130/0.webp",
+      "size": 17770
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/130/1.webp",
+      "size": 22928
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/130/2.webp",
+      "size": 21172
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/130/3.webp",
+      "size": 17458
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/130/4.webp",
+      "size": 21500
+    }
+  ],
+  "131": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/131/0.webp",
+      "size": 15650
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/131/1.webp",
+      "size": 20678
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/131/2.webp",
+      "size": 18430
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/131/3.webp",
+      "size": 16394
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/131/4.webp",
+      "size": 18812
+    }
+  ],
+  "132": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/132/0.webp",
+      "size": 15756
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/132/1.webp",
+      "size": 20344
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/132/2.webp",
+      "size": 18520
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/132/3.webp",
+      "size": 16354
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/132/4.webp",
+      "size": 18608
+    }
+  ],
+  "133": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/133/0.webp",
+      "size": 14344
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/133/1.webp",
+      "size": 17280
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/133/2.webp",
+      "size": 16192
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/133/3.webp",
+      "size": 14654
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/133/4.webp",
+      "size": 16478
+    }
+  ],
+  "134": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/134/0.webp",
+      "size": 15074
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/134/1.webp",
+      "size": 17742
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/134/2.webp",
+      "size": 15900
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/134/3.webp",
+      "size": 15006
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/134/4.webp",
+      "size": 16734
+    }
+  ],
+  "135": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/135/0.webp",
+      "size": 92720
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/135/1.webp",
+      "size": 92542
+    }
+  ],
+  "136": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/136/0.webp",
+      "size": 52
+    }
+  ],
+  "137": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/137/0.webp",
+      "size": 52
+    }
+  ],
+  "138": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/138/0.webp",
+      "size": 52
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/138/1.webp",
+      "size": 52
+    }
+  ],
+  "139": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/139/0.webp",
+      "size": 52
+    }
+  ],
+  "140": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/140/0.webp",
+      "size": 52
+    }
+  ],
+  "141": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/141/0.webp",
+      "size": 11748
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/141/1.webp",
+      "size": 13708
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/141/2.webp",
+      "size": 13626
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/141/3.webp",
+      "size": 12162
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/141/4.webp",
+      "size": 14026
+    }
+  ],
+  "142": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/142/0.webp",
+      "size": 11218
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/142/1.webp",
+      "size": 13152
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/142/2.webp",
+      "size": 13092
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/142/3.webp",
+      "size": 11636
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/142/4.webp",
+      "size": 13202
+    }
+  ],
+  "143": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/143/0.webp",
+      "size": 52
+    }
+  ],
+  "144": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/144/0.webp",
+      "size": 52
+    }
+  ],
+  "145": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/145/0.webp",
+      "size": 96830
+    }
+  ],
+  "146": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/146/0.webp",
+      "size": 116838
+    }
+  ],
+  "147": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/147/0.webp",
+      "size": 132258
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/147/1.webp",
+      "size": 134422
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/147/2.webp",
+      "size": 133648
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/147/3.webp",
+      "size": 127122
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/147/4.webp",
+      "size": 131074
+    },
+    {
+      "index": 5,
+      "name": "5.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/147/5.webp",
+      "size": 137224
+    }
+  ],
+  "148": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/148/0.webp",
+      "size": 20810
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/148/1.webp",
+      "size": 24618
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/148/2.webp",
+      "size": 22598
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/148/3.webp",
+      "size": 21840
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/148/4.webp",
+      "size": 24418
+    }
+  ],
+  "149": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/149/0.webp",
+      "size": 23434
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/149/1.webp",
+      "size": 25092
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/149/2.webp",
+      "size": 24658
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/149/3.webp",
+      "size": 23934
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/149/4.webp",
+      "size": 25660
+    }
+  ],
+  "150": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/150/0.webp",
+      "size": 12476
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/150/1.webp",
+      "size": 14578
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/150/2.webp",
+      "size": 13688
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/150/3.webp",
+      "size": 12906
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/150/4.webp",
+      "size": 14022
+    }
+  ],
+  "151": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/151/0.webp",
+      "size": 12032
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/151/1.webp",
+      "size": 13964
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/151/2.webp",
+      "size": 12810
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/151/3.webp",
+      "size": 12254
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/151/4.webp",
+      "size": 13478
+    }
+  ],
+  "152": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/152/0.webp",
+      "size": 7000
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/152/1.webp",
+      "size": 8194
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/152/2.webp",
+      "size": 7622
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/152/3.webp",
+      "size": 7212
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/152/4.webp",
+      "size": 7778
+    }
+  ],
+  "153": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/153/0.webp",
+      "size": 6698
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/153/1.webp",
+      "size": 7902
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/153/2.webp",
+      "size": 7304
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/153/3.webp",
+      "size": 6792
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/153/4.webp",
+      "size": 7582
+    }
+  ],
+  "154": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/154/0.webp",
+      "size": 22382
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/154/1.webp",
+      "size": 19908
+    }
+  ],
+  "155": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/155/0.webp",
+      "size": 24728
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/155/1.webp",
+      "size": 22020
+    }
+  ],
+  "156": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/156/0.webp",
+      "size": 18482
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/156/1.webp",
+      "size": 21212
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/156/2.webp",
+      "size": 20202
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/156/3.webp",
+      "size": 18050
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/156/4.webp",
+      "size": 21334
+    }
+  ],
+  "157": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/157/0.webp",
+      "size": 17908
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/157/1.webp",
+      "size": 20394
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/157/2.webp",
+      "size": 19452
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/157/3.webp",
+      "size": 17710
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/157/4.webp",
+      "size": 20806
+    }
+  ],
+  "158": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/158/0.webp",
+      "size": 11858
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/158/1.webp",
+      "size": 14404
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/158/2.webp",
+      "size": 14242
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/158/3.webp",
+      "size": 12560
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/158/4.webp",
+      "size": 15006
+    }
+  ],
+  "159": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/159/0.webp",
+      "size": 12118
+    },
+    {
+      "index": 1,
+      "name": "1.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/159/1.webp",
+      "size": 13886
+    },
+    {
+      "index": 2,
+      "name": "2.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/159/2.webp",
+      "size": 13152
+    },
+    {
+      "index": 3,
+      "name": "3.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/159/3.webp",
+      "size": 12744
+    },
+    {
+      "index": 4,
+      "name": "4.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/159/4.webp",
+      "size": 13498
+    }
+  ],
+  "160": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/160/0.webp",
+      "size": 52
+    }
+  ],
+  "161": [
+    {
+      "index": 0,
+      "name": "0.webp",
+      "url": "https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets/assets/accessories/female/161/0.webp",
+      "size": 21670
+    }
+  ]
+}

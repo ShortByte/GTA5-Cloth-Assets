@@ -3,7 +3,7 @@ import { join } from 'path';
 
 const __dirname = import.meta.dirname;
 
-const imageBaseUrl ='https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets'; // 'http://127.0.0.1:5500';
+const imageBaseUrl = process.env.DEVELOP ? 'http://127.0.0.1:5500' : 'https://cdn.jsdelivr.net/gh/ShortByte/GTA5-Cloth-Assets';
 
 const assetFolders = await readdir(join(__dirname, 'assets'), {
   withFileTypes: true

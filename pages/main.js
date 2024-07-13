@@ -21,6 +21,16 @@ function insertNavigation() {
 
         <li class="nav-item dropdown">
           <a class="nav-link fw-medium dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Accessories Assets
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item fw-medium" href="accessories-female.html">Accessories (Female)</a></li>
+            <li><a class="dropdown-item fw-medium" href="accessories-male.html">Accessories (Male)</a></li>
+          </ul>
+        </li>
+
+        <li class="nav-item dropdown">
+          <a class="nav-link fw-medium dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Tops Assets
           </a>
           <ul class="dropdown-menu">
@@ -76,7 +86,7 @@ function insertNavigation() {
 
 function insertFooter() {
   const content = `
-    <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-2">
+    <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 border-top">
       <div class="col-md-4 d-flex align-items-center">
         <span class="mb-3 mb-md-0 text-body-secondary">
           © 2024 Enneken-Solutions, (ShortByte)<br/>
