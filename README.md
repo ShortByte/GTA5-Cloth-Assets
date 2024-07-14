@@ -8,6 +8,59 @@ I have provided a small page with all the contents under the following link.
 https://shortbyte.github.io/GTA5-Cloth-Assets/
 
 
+## Available assets
+
+### Clothes
+- [ ] Head (Component ID: 0)
+- [X] Masks (Component ID: 1)
+  - [X] Both genders
+- [ ] Hair Styles (Component ID: 2)
+  - [ ] Male
+  - [ ] Female
+- [ ] Torsos (Component ID: 3)
+  - [ ] Male
+  - [ ] Female
+- [X] Legs (Component ID: 4)
+  - [X] Male
+  - [X] Female
+- [ ] Bags and Parachutes (Component ID: 5)
+  - [ ] Both genders 
+- [X] Shoes (Component ID: 6)
+  - [X] Male
+  - [X] Female
+- [X] Accessories (Component ID: 7)
+  - [X] Male
+  - [X] Female
+- [ ] Undershirts (Component ID: 8)
+  - [ ] Male
+  - [ ] Female
+- [ ] Body Armors (Component ID: 9)
+  - [ ] Male
+  - [ ] Female
+- [ ] Decals (Component ID: 10)
+  - [ ] Male
+  - [ ] Female
+- [X] Tops (Component ID: 11)
+  - [X] Male
+  - [X] Female
+
+### Props
+- [ ] Hats (Component ID: 0)
+  - [ ] Male
+  - [ ] Female
+- [ ] Glasses (Component ID: 1)
+  - [ ] Male
+  - [ ] Female
+- [ ] Ears (Component ID: 2)
+  - [ ] Male
+  - [ ] Female
+- [ ] Watches (Component ID: 6)
+  - [ ] Male
+  - [ ] Female
+- [ ] Bracelets (Component ID: 7)
+  - [ ] Male
+  - [ ] Female
+
 ## Access Images
 
 You can use `jsdelivr` to access the images via CDN.
