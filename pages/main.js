@@ -15,13 +15,13 @@ function insertNavigation() {
 
         <li class="nav-item">
           <a class="nav-link fw-medium" aria-current="page" href="masks.html">
-            Masks Assets
+            Masks
           </a>
         </li>
 
         <li class="nav-item dropdown">
           <a class="nav-link fw-medium dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Accessories Assets
+            Accessories
           </a>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item fw-medium" href="accessories-female.html">Accessories (Female)</a></li>
@@ -31,7 +31,7 @@ function insertNavigation() {
 
         <li class="nav-item dropdown">
           <a class="nav-link fw-medium dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Tops Assets
+            Tops
           </a>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item fw-medium" href="tops-female.html">Tops (Female)</a></li>
@@ -41,7 +41,17 @@ function insertNavigation() {
 
         <li class="nav-item dropdown">
           <a class="nav-link fw-medium dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Legs Assets
+            Undershirts
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item fw-medium" href="undershirts-female.html">Undershirts (Female)</a></li>
+            <li><a class="dropdown-item fw-medium" href="undershirts-male.html">Undershirts (Male)</a></li>
+          </ul>
+        </li>
+
+        <li class="nav-item dropdown">
+          <a class="nav-link fw-medium dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Legs
           </a>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item fw-medium" href="legs-female.html">Legs (Female)</a></li>
@@ -51,7 +61,7 @@ function insertNavigation() {
 
         <li class="nav-item dropdown">
           <a class="nav-link fw-medium dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Shoes Assets
+            Shoes
           </a>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item fw-medium" href="shoes-female.html">Shoes (Female)</a></li>
@@ -126,6 +136,8 @@ function preparePage(data) {
   element.innerHTML = '';
 
   Object.keys(data).forEach((key) => {
+    const availableItems = data[key].filter((item) => item.size > 100);
+
     const header = document.createElement('div');
     header.classList.add('col-12', 'py-2', 'my-4', 'border-bottom');
 
@@ -135,7 +147,7 @@ function preparePage(data) {
 
     const headerSmall = document.createElement('small');
     headerSmall.classList.add('fs-5')
-    headerSmall.innerText = ` (Available Textures: ${data[key].length})`;
+    headerSmall.innerText = ` (Available Textures: ${availableItems.length}, Not presented: ${data[key].length - availableItems.length})`;
     headerLabel.append(headerSmall);
 
     element.append(header);
