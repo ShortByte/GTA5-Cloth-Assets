@@ -31,9 +31,9 @@ https://shortbyte.github.io/GTA5-Cloth-Assets/
 - [X] Accessories (Component ID: 7)
   - [X] Male
   - [X] Female
-- [ ] Undershirts (Component ID: 8)
-  - [ ] Male
-  - [ ] Female
+- [X] Undershirts (Component ID: 8)
+  - [X] Male
+  - [X] Female
 - [ ] Body Armors (Component ID: 9)
   - [ ] Male
   - [ ] Female
@@ -60,6 +60,10 @@ https://shortbyte.github.io/GTA5-Cloth-Assets/
 - [ ] Bracelets (Component ID: 7)
   - [ ] Male
   - [ ] Female
+
+## Notes
+
+Thanks to @vxray for writing and providing the script to compress.
 
 ## Access Images
 
