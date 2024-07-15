@@ -25,5 +25,9 @@
   "bugs": {
     "url": "https://github.com/ShortByte/GTA5-Cloth-Assets/issues"
   },
-  "homepage": "https://github.com/ShortByte/GTA5-Cloth-Assets#readme"
+  "homepage": "https://github.com/ShortByte/GTA5-Cloth-Assets#readme",
+  "dependencies": {
+    "glob": "^11.0.0",
+    "sharp": "^0.33.4"
+  }
 }
