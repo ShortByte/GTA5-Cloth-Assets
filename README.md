@@ -63,7 +63,7 @@ https://shortbyte.github.io/GTA5-Cloth-Assets/
 
 ## Notes
 
-Thanks to @vxray for writing and providing the script to compress.
+Thanks to [@vxray](https://github.com/vxray) for writing and providing the script to compress.
 
 ## Access Images
 
